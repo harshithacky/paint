@@ -71,7 +71,7 @@ html{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    min-height: 55px;
+    min-height: 45px;
 
 }
 .brand{
@@ -140,7 +140,7 @@ html{
     
 }
 .hero-content{
-    min-height: calc(100vh - 90px);
+    min-height: calc(100vh - 80px);
     display: flex;
     align-items: center;
     flex-direction: column;
