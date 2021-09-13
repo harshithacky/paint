@@ -330,6 +330,7 @@ html,body{
 
 .testimonials, .contact{
     padding: 3rem 0;
+    overflow: hidden;
 }
 .testimonials h1, .contact h1{
     color: #333;
